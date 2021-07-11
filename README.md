@@ -1,2 +1,2 @@
-# dict
+# python projects
 Simple Dictionary
