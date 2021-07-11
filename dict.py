@@ -1,7 +1,7 @@
 
 dict = {
          "pakha" : "Fan , https://en.wikipedia.org/wiki/Fan_(machine) " ,
-         "bakso" : "Box , https://en.wikipedia.org/wiki/The_Box " ,
+         "basko" : "Box , https://en.wikipedia.org/wiki/The_Box " ,
          "alo" : "Light , https://en.wikipedia.org/wiki/Light " ,
          "ratri" : "Night , https://en.wikipedia.org/wiki/Night " ,
          "sokal" : "Morning , https://en.wikipedia.org/wiki/Morning " ,
